@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "boschponsjoan": {
+      "hosting": {
+        "joanboschponsWEB": [
+          "boschponsjoan"
+        ]
+      }
+    }
+  }
+}
